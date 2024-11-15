@@ -57,66 +57,11 @@ Thank you.
 
 ---
 
-<div class="flex flex-col p-4">
-  <div class="flex justify-between">
-    <h1>16 oz. Bistro Ceramic Mug</h1>
-    <!-- Product Image -->
-    <div class="w-36">
-      <img src="https://www.filepicker.io/api/file/oTsv6mr1RKOdoocR0J0O" alt="Product Image" class="w-full mx-auto rounded-md shadow-md">
-    </div>
-  </div>
-
-  <!-- Product Information -->
-  <div class="text-left my-1 space-y-1">
-    <p class="text-sm !leading-5 !mb-2">Get your business going with this 16 oz. wide ceramic bistro mug! Great for trade shows, gift shops, cafes and corporate events, this traditional coffee mug is perfect for everyday use with your favorite coffee or tea. It features a smooth rim, glossy finish, curved grip and tapered bottom. Available in several eye-catching colors options, have your company name or logo imprinted on the surface for maximum brand visibility!</p>
-    <p class="text-sm !leading-5"><strong>Tradename:</strong> Mug America</p>
-    <p class="text-sm !leading-5"><strong>Material:</strong> Ceramic</p>
-    <p class="text-sm !leading-5"><strong>Colors:</strong> Blue, Orange, Pink, Red, White</p>
-    <p class="text-sm !leading-5"><strong>Size:</strong> 16 oz</p>
-    <p class="text-sm !leading-5"><strong>Imprint method:</strong> Imprint Method Charge: Decal - $0.45, Screen Charge: Silkscreen - $49.00</p>
-    <p class="text-sm !leading-5"><strong>Imprint size:</strong> 2.5" x 1.75"</p>
-    <p class="text-sm !leading-5"><strong>Additional Colors/Locations:</strong> Additional Colors/Locations. Run Charge: Additional imprint color. - $0.45</p>
-  </div>
-
-  <!-- Pricing Table -->
-  <div class="overflow-x-auto text-xs">
-    <table class="table-auto border-collapse border border-gray-400 w-full text-center">
-      <thead>
-        <tr>
-          <th class="border border-gray-300 !py-1">Quantity</th>
-          <th class="border border-gray-300 !py-1">36</th>
-          <th class="border border-gray-300 !py-1">72</th>
-          <th class="border border-gray-300 !py-1">144</th>
-          <th class="border border-gray-300 !py-1">288</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td class="border border-gray-300 !py-1 font-semibold">Price</td>
-          <td class="border border-gray-300 !py-1">$3.98</td>
-          <td class="border border-gray-300 !py-1">$3.66</td>
-          <td class="border border-gray-300 !py-1">$3.14</td>
-          <td class="border border-gray-300 !py-1">$3.03</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-  <p class="text-xs"><strong>Price Includes</strong> one color, one or two location imprint.</p>
-</div>
-
+<ProductDetails productId="551749452" />
 
 <style>
 .slidev-layout {
   padding: 0.5rem;
-}
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
 }
 </style>
 
